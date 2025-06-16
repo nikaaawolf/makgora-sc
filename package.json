@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@prb/math": "^4.1.0",
+    "@story-protocol/protocol-core": "https://github.com/storyprotocol/protocol-core-v1"
+  }
+}
